@@ -1,7 +1,10 @@
-# if-else-elif-statements-
-Discover what grade did you get on the basis of how much marks did you score and,
+# if-else-elif-statements programs about 
 
-are you eligible to vote in the elections?
+1. What grade did you get in your exams?
+
+2. Are you eligible to vote in the elections?
+
+3. Did your building/society faced water/electricity supply issues?
 
 
 Language used : Python
